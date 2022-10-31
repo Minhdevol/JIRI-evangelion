@@ -306,8 +306,6 @@
 			"punctuation.definition.entity.css",
 			"keyword.operator.assignment.js",
 			"punctuation.separator.comma.js",
-			"punctuation.definition.string.begin.js",
-			"punctuation.definition.string.end.js",
 			"punctuation.definition.binding-pattern.object.js"
 		  ],
 		  "settings": {
@@ -411,8 +409,6 @@
 			"variable.other.object.js",
 			"storage.type.js",
 			"string.other.link.title.markdown",
-			"variable.other.readwrite.js",
-			"variable.other.property.js"
 		  ],
 		  "settings": {
 			"foreground": "#FF6F52",
@@ -447,6 +443,7 @@
 		  "scope": [
 			"meta.attribute.class.html",
 			"meta.attribute.id.html",
+			"storage.type.function.js",
 			"constant.numeric"
 		  ],
 		  "settings": {
@@ -459,6 +456,7 @@
 			"support.function",
 			"terminal.findMatchBorder",
 			"dropdown.border",
+			"variable.other.readwrite.js",
 			"tab.activeBorder"
 		  ],
 		  "settings": {
@@ -468,6 +466,7 @@
 		{
 		  "scope": [
 			"punctuation.definition.string.begin.html",
+			"variable.other.property.js",
 			"punctuation.definition.string.end.html"
 		  ],
 		  "settings": {
@@ -564,6 +563,7 @@
 		  "scope": [
 			"entity.name.module.js",
 			"variable.import.parameter.js",
+			"keyword.operator.assignment",
 			"variable.other.class.js"
 		  ],
 		  "settings": {
@@ -598,7 +598,6 @@
 			"keyword.control.conditional.js",
 			"support.constant",
 			"string.quoted.single.js",
-			"storage.type.function.js",
 			"meta.object-literal.key"
 		  ],
 		  "settings": {
@@ -633,6 +632,8 @@
 		},
 		{
 		  "scope": [
+			"punctuation.definition.string.begin.js",
+			"punctuation.definition.string.end.js",
 			"markup.changed"
 		  ],
 		  "settings": {
