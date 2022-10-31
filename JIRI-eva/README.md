@@ -1,9 +1,10 @@
-# J I R I  [ evangelion - theme ]
+# J I R I  [ evangelion - theme ] 
 
-## DARK THEEME FOR CODINGGG!!!
-
+## D A R K -- T H E M E -- F O R -- C O D I N G G G!!!
 
 ## YOU CAN SEE MY THEME BUILD on this link <a href="https://github.com/Minhdevol/JIRI-evangelion/tree/main/JIRI-eva/themes">here</a>
+* You can build your own custom theme like me, because this is so easy
+* Just go throught this <a href="https://youtu.be/pGzssFNtWXw">link</a> , you will have video to guide how to build this thing like me.
 
 ## Quick look my theme
 
