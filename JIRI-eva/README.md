@@ -1,10 +1,16 @@
 # J I R I  [ evangelion - theme ] 
 
-## D A R K -- T H E M E -- F O R -- C O D I N G G G!!!
+### D A R K .... T H E M E ....  F O R  .... C O D I N G G G!!!
 
-## YOU CAN SEE MY THEME BUILD on this <a href="https://github.com/Minhdevol/JIRI-evangelion/tree/main/JIRI-eva/themes">link</a>
-* You can build your own custom theme like me, because this is so easy
-* Just go throught this <a href="https://youtu.be/pGzssFNtWXw">link</a> , you will have video to guide how to build this thing like me.
+### --------SUPPORT FOR----------
+* HTML
+* CSS
+* Javascript
+
+#### YOU CAN SEE MY THEME BUILD right <a href="https://github.com/Minhdevol/JIRI-evangelion/tree/main/JIRI-eva/themes">here</a>
+
+#### CONTACT ME:
+* quangminh5804@gmail.com <img style="width: 20px;height: 20px;border-radius: 50%;margin: 10px 0px 0px 10px;" src="https://lh3.googleusercontent.com/a/ALm5wu1WlXnENh298gHtUcYaInqFsuZlVmQ5dJTkt5RAaQ=s96-c-rg-br100">
 
 ## Quick look my theme
 
